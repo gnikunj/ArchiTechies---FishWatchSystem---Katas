@@ -5,9 +5,9 @@ Architectural Design for Intelligent Fish Watch System for Architectural Katas
 This README provides an overview of the Intelligent AIoT based Fish Watch system, mentioning it's requirement, team details, solutioning approach, constraints and architectural decisions.
 
 # Team Members
-   Nikunj Goel
-   Piyush Agarwal 
-   Lukesh Garg
+ - Nikunj Goel
+ - Piyush Agarwal 
+ - Lukesh Garg
 
 ## Problem Statement
 1. Farmers need to be able to see the collected information in dashboards which they can customize.
@@ -43,7 +43,7 @@ Fish Watch encapsulates IOT devices, communication tools, and software that coll
 3. Analytical Service: Provides customized data visualization through dashboards, web, and mobile applications.
    ![Solution Architecture Diagram](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/assets/16604629/91f5e6aa-4770-4801-9c26-9e4a37802b3b)
 
-The Repository contains:
+# Repository Contents
 1. Fish Watch - Detailed Solution Design Document [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ArchiTechies%20-%20Fish%20Watch%20Solution%20Design%20Document.pdf), it includes :
     - Requirements, Constraints & Assumption
     - Detailed Solution Overview
