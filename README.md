@@ -26,7 +26,7 @@ The Repository contains:
     - ADR - Role-Based Access Control [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ADR/ADR%20-%20Role-Based%20Access%20Control.pdf)
 
 
-# Solution in Nut-Shell :
+# Solution in Nut-Shell
 ## Problem Statement
 1. Farmers need to be able to see the collected information in dashboards which they can customize.
 2. They also need to be able to specify thresholds at which alerts should be triggered this could be simple things like a PH going out of bound, but could also involve advanced warnings of adverse weather events which are expected.
