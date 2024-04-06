@@ -5,11 +5,10 @@ Architectural Design for Intelligent Fish Watch System for Architectural Katas
 This README provides an overview of the Intelligent AIoT based Fish Watch system, mentioning it's requirement, team details, solutioning approach, constraints and architectural decisions.
 
 # Team Members
-Nikunj Goel
-Piyush Agarwal 
-Lukesh Garg
+   Nikunj Goel
+   Piyush Agarwal 
+   Lukesh Garg
 
-# Solution in Nut-Shell
 ## Problem Statement
 1. Farmers need to be able to see the collected information in dashboards which they can customize.
 2. They also need to be able to specify thresholds at which alerts should be triggered this could be simple things like a PH going out of bound, but could also involve advanced warnings of adverse weather events which are expected.
