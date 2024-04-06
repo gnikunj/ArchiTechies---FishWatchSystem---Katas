@@ -2,8 +2,7 @@
 Architectural Design for Intelligent Fish Watch System for Architectural Katas
 
 The Repository contains:
-1. Fish Watch - Detailed Solution Design Document [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ArchiTechies%20-%20Fish%20Watch%20Solution%20Design%20Document.pdf)
-   It includes :
+1. Fish Watch - Detailed Solution Design Document [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ArchiTechies%20-%20Fish%20Watch%20Solution%20Design%20Document.pdf), it includes :
     - Requirements, Constraints & Assumption
     - Detailed Solution Overview
     - Solution Archutecture diagram
