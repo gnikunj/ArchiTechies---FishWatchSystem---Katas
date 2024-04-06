@@ -26,7 +26,9 @@ The Repository contains:
     - ADR - Regional Local Data Storage [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ADR/ADR%20-%20Regional%20Local%20Data%20Storage.pdf)
     - ADR - Role-Based Access Control [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ADR/ADR%20-%20Role-Based%20Access%20Control.pdf)
 
-In Nut-Shell :
+
+
+**Solution in Nut-Shell :**
 
 ## Problem Statement
 1. Farmers need to be able to see the collected information in dashboards which they can customize.
