@@ -12,6 +12,11 @@ This README provides an overview of the Intelligent AIoT based Fish Watch system
  - Piyush Agarwal - Architect
  - Lukesh Garg - Architect
 
+# ArchiTechies-FishWatchSystem-Kata - Solution Video
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://player.vimeo.com/video/934456612?h=4e2c9a2aee)
+
+[ArchiTechies FishWatchSystem Video - Download](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ArchiTechies_SopraSteria_Oreilly_Fishwatch.mp4)
+
 ## Problem Statement
 1. Farmers need to be able to see the collected information in dashboards which they can customize.
 2. They also need to be able to specify thresholds at which alerts should be triggered this could be simple things like a PH going out of bound, but could also involve advanced warnings of adverse weather events which are expected.
@@ -71,8 +76,3 @@ Fish Watch encapsulates IOT devices, communication tools, and software that coll
     - ADR - Regional Local Data Storage [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ADR/ADR%20-%20Regional%20Local%20Data%20Storage.pdf)
     - ADR - Role-Based Access Control [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ADR/ADR%20-%20Role-Based%20Access%20Control.pdf)
 
-
-# ArchiTechies-FishWatchSystem-Kata - Video Solution Link
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://player.vimeo.com/video/934456612?h=4e2c9a2aee)
-
-[ArchiTechies FishWatchSystem Video - Download](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ArchiTechies_SopraSteria_Oreilly_Fishwatch.mp4)
