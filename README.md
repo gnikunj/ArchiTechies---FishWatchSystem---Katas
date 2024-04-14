@@ -73,3 +73,4 @@ Fish Watch encapsulates IOT devices, communication tools, and software that coll
 
 
 # ArchiTechies-FishWatchSystem-Kata - Video Solution Link
+To download the video - [Click here][https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ArchiTechies_SopraSteria_Oreilly_Fishwatch.mp4]
