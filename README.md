@@ -1,5 +1,8 @@
+<img width="328" alt="lo" src="https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/assets/16604629/a7f8ce3a-694e-46b9-8925-f69c06dbcfa1">
+
 # ArchiTechies-FishWatchSystem-Katas
 Architectural Design for Intelligent Fish Watch System for Architectural Katas
+
 
 # Introduction
 This README provides an overview of the Intelligent AIoT based Fish Watch system, mentioning it's requirement, team details, solutioning approach, constraints and architectural decisions.
@@ -52,6 +55,7 @@ Fish Watch encapsulates IOT devices, communication tools, and software that coll
     - System Diagram
     - Context Diagram
     - Component Diagram
+    - Data Platform Diagram
     - Services Details
     - Architecture Decision points
     - Summarization & future plans
