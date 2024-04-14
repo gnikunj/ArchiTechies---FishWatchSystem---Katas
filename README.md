@@ -1,15 +1,16 @@
 
 # ArchiTechies-FishWatchSystem-Katas
-Architectural Design for Intelligent Fish Watch System for Architectural Katas
 <img width="328" alt="lo" src="https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/assets/16604629/a7f8ce3a-694e-46b9-8925-f69c06dbcfa1">
+
+Architectural Design Solution for Intelligent Fish Watch System for Architectural Katas
 
 # Introduction
 This README provides an overview of the Intelligent AIoT based Fish Watch system, mentioning it's requirement, team details, solutioning approach, constraints and architectural decisions.
 
 # Team Members
- - Nikunj Goel
- - Piyush Agarwal 
- - Lukesh Garg
+ - Nikunj Goel - Architect
+ - Piyush Agarwal - Architect
+ - Lukesh Garg - Architect
 
 ## Problem Statement
 1. Farmers need to be able to see the collected information in dashboards which they can customize.
@@ -69,3 +70,6 @@ Fish Watch encapsulates IOT devices, communication tools, and software that coll
     - ADR - Multitenancy & Subscription based SaaS model [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ADR/ADR%20-%20Multitenancy%20%26%20Subscription%20based%20SaaS%20model.pdf)
     - ADR - Regional Local Data Storage [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ADR/ADR%20-%20Regional%20Local%20Data%20Storage.pdf)
     - ADR - Role-Based Access Control [Link](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ADR/ADR%20-%20Role-Based%20Access%20Control.pdf)
+
+
+# ArchiTechies-FishWatchSystem-Kata - Video Solution Link
