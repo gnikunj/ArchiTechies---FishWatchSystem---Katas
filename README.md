@@ -1,4 +1,4 @@
-<img width="328" alt="lo" src="https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/assets/16604629/a7f8ce3a-694e-46b9-8925-f69c06dbcfa1">
+                                              <img width="328" alt="lo" src="https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/assets/16604629/a7f8ce3a-694e-46b9-8925-f69c06dbcfa1">
 
 # ArchiTechies-FishWatchSystem-Katas
 Architectural Design for Intelligent Fish Watch System for Architectural Katas
