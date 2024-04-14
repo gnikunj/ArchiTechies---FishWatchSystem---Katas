@@ -13,7 +13,7 @@ This README provides an overview of the Intelligent AIoT based Fish Watch system
  - Lukesh Garg - Architect
 
 # ArchiTechies-FishWatchSystem-Kata - Solution Video
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://player.vimeo.com/video/934456612?h=4e2c9a2aee)
+[Watch the video](https://player.vimeo.com/video/934456612?h=4e2c9a2aee)
 
 [ArchiTechies FishWatchSystem Video - Download](https://github.com/gnikunj/ArchiTechies---FishWatchSystem---Katas/blob/main/ArchiTechies_SopraSteria_Oreilly_Fishwatch.mp4)
 
